@@ -2,9 +2,9 @@
 
 [![Header](https://github.com/ZelmaSedano/ZelmaSedano/blob/main/pixel_sky.jpeg "Header")](https://ibb.co/QCJWHq1)
 
-Click Image to view my Portfolio!!
 [![Linkedin Badge](https://img.shields.io/badge/-zelma_sedano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zvs/)](https://www.linkedin.com/in/zvs/)
 [![Gmail Badge](https://img.shields.io/badge/-zvsedano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zvsedano@gmail.com)](mailto:zvsedano@gmail.com)
+^ Click Image to view my Portfolio ^
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZelmaSedano&show_icons=true&theme=radical)](https://github.com/ZelmaSedano/github-readme-stats)
