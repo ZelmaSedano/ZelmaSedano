@@ -1,5 +1,7 @@
 ### :star: Hola | Hei Hei | Howdy :star:
 
+<h3 align='center'>:star: Hola | Hei Hei | Howdy :star:</h3>
+
 [![Header](https://github.com/ZelmaSedano/ZelmaSedano/blob/main/pixel_sky.jpeg "Header")](https://ibb.co/QCJWHq1)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZelmaSedano&show_icons=true&theme=radical)](https://github.com/ZelmaSedano/github-readme-stats)
