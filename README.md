@@ -1,6 +1,6 @@
-[![Header](https://github.com/ZelmaSedano/ZelmaSedano/blob/main/pixel_sky.jpeg "Header")](https://ibb.co/QCJWHq1)
-
 ### Hi there :vulcan_salute:
+
+[![Header](https://github.com/ZelmaSedano/ZelmaSedano/blob/main/pixel_sky.jpeg "Header")](https://ibb.co/QCJWHq1)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZelmaSedano)](https://github.com/ZelmaSedano/github-readme-stats)
 
