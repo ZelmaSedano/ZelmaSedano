@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://ih0.redbubble.net/image.296727149.2403/flat,1000x1000,075,f.jpg)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://ibb.co/QCJWHq1)
 
 ### Hi there 👋
 
