@@ -1,4 +1,4 @@
-### :star: Hola | Hei Hei | Howdy :vulcan_salute: :star:
+### :star: Hola | Hei Hei | Howdy :star:
 
 [![Header](https://github.com/ZelmaSedano/ZelmaSedano/blob/main/pixel_sky.jpeg "Header")](https://ibb.co/QCJWHq1)
 
