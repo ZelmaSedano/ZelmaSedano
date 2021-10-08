@@ -2,7 +2,8 @@
 
 ### Hi there :vulcan_salute:
 
-[![Zelma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZelmaSedanoo)](https://github.com/ZelmaSedano/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ZelmaSEdano/github-readme-stats)
+
 
 <!--
 **ZelmaSedano/ZelmaSedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
