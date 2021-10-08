@@ -1,5 +1,3 @@
-### :star: Hola | Hei Hei | Howdy :star:
-
 <h3 align='center'>:star: Hola | Hei Hei | Howdy :star:</h3>
 
 [![Header](https://github.com/ZelmaSedano/ZelmaSedano/blob/main/pixel_sky.jpeg "Header")](https://ibb.co/QCJWHq1)
