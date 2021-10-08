@@ -1,4 +1,4 @@
-<h4 align='center'>:star: Hola | Hei Hei | Howdy :star: Click Below to View My Portfolio :slightly_smiling_face:</h3>
+<h4 align='center'>:star: Hola | Hei Hei | Howdy! Click Below to View My Portfolio :slightly_smiling_face:</h3>
 
 [![Header](https://github.com/ZelmaSedano/ZelmaSedano/blob/main/pixel_sky.jpeg "Header")](https://ibb.co/QCJWHq1)
 
