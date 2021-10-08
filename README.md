@@ -2,7 +2,7 @@
 
 ### Hi there :vulcan_salute:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ZelmaSEdano/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZelmaSedano)](https://github.com/ZelmaSedano/github-readme-stats)
 
 
 <!--
