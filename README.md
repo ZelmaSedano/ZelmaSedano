@@ -4,6 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZelmaSedano)](https://github.com/ZelmaSedano/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZelmaSedano)](https://github.com/ZelmaSedano/github-readme-stats)
+
 
 <!--
 **ZelmaSedano/ZelmaSedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
