@@ -1,4 +1,4 @@
-<h4 align='center'>:vulcan_salute: Hola | Hei Hei | Howdy! || Click Below to View My Portfolio :slightly_smiling_face:</h3>
+<h3 align='center'>:vulcan_salute: Hola | Hei Hei | Howdy! || Click Below to View My Portfolio :slightly_smiling_face:</h3>
 
 [![Header](https://github.com/ZelmaSedano/ZelmaSedano/blob/main/pixel_sky.jpeg "Header")]( https://portfolio-zvs.herokuapp.com/)
 
