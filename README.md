@@ -1,6 +1,6 @@
 <h3 align='center'>:vulcan_salute: Hola | Hei Hei | Howdy!</h3>
 
-![Header](https://github.com/ZelmaSedano/ZelmaSedano/blob/main/pixel_sky.jpeg "Header")
+![Header](https://github.com/ZelmaSedano/ZelmaSedano/blob/main/portfolio.png "Header")
 
 [![Linkedin Badge](https://img.shields.io/badge/-zelma_sedano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zvs/)](https://www.linkedin.com/in/zvs/)
 [![Gmail Badge](https://img.shields.io/badge/-zvsedano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zvsedano@gmail.com)](mailto:zvsedano@gmail.com)
