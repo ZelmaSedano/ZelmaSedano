@@ -5,6 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-zelma_sedano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zvs/)](https://www.linkedin.com/in/zvs/)
 [![Gmail Badge](https://img.shields.io/badge/-zvsedano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zvsedano@gmail.com)](mailto:zvsedano@gmail.com)
 <br>
+<a href="https://www.linkedin.com/in/zvs/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-zelma_sedano-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="mailto:zvsedano@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-zvsedano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
 
 ### 🗣️ Top Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
