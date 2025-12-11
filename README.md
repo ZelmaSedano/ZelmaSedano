@@ -1,4 +1,4 @@
-<h3 align='center'>:vulcan_salute: Hola | Hei Hei | Howdy!</h3>
+<h3 align='center'>:vulcan_salute: Meowdy, fellow nerd! Welcome to my GitHub Profile :)</h3>
 
 ![Header](https://github.com/ZelmaSedano/ZelmaSedano/blob/main/portfolio.png "Header")
 
